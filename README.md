@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋 I'm Brindha
+
+💻 Frontend Developer (Learning Phase)
+
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+## 📂 Projects
+- React Practice Project (my-ass1)
+
+## 🎯 Goal
+Become a Full Stack Developer 🚀
